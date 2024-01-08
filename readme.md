@@ -1,10 +1,10 @@
-#<center> Smart Garden
+<h1 align="center">Smart Garden</h1>
 
 <h5 align="center">Adanya project ini untuk memenuhi tugas UAS mata kuliah </h5>
 <h5 align="center"><i>"Organisasi dan Arsitektur Komputer"</i></h5>
 <p align="center">Dosen Pengampu: Hasan Bisry Isa Alfaris, S.Kom</p>
 
-<center><img src="university-logo.png" height="300" width="300" alt="logo-unwaha"></center>
+<center><img src="university-logo.png" height="300" width="300" alt="logo-unwaha" ></center
 
 ### ALAT DAN BAHAN
 
