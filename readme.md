@@ -36,7 +36,7 @@
 ### Cara penggunaan
 
 - Nyalakan perangkat
-- Jika perngkat belum pernah terhubung WiFi manapun harus di konfigurasi dahulu agar bisa di kontrol secara online
+- Jika perangkat belum pernah terhubung WiFi manapun harus di konfigurasi dahulu agar bisa di kontrol secara online
 - Hubungkan pompa air ke Relay yang sudah disediakan
 - Atur letak penempatan sensor kelembaban tanah
 - Pastikan perangkat aman dari air hujan
